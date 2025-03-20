@@ -21,6 +21,8 @@ This project analyzes Yelp business and review data using AWS S3, Snowflake, and
 ### 3️⃣ Uploading Data to AWS S3
 - ☁️ Uploaded the split review files and business file to an AWS S3 bucket.
 - 🏗️ Gained hands-on experience navigating AWS services and managing S3 storage.
+  
+![AWS S3 reviewsbusinesses](https://github.com/user-attachments/assets/3760312f-4ad6-4c99-9665-d45d452df671)
 
 ### 4️⃣ Loading Data into Snowflake
 - ❄️ Used Snowflake's `COPY INTO` command to load the JSON data from S3 into Snowflake tables.
