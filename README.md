@@ -73,8 +73,11 @@ Performed SQL queries to extract insights:
 
 ## 🚀 Future Improvements
 - 📊 Implementing a visualization dashboard (e.g., Tableau or Power BI) for better insight representation.
-- 🤖 Automating data ingestion using AWS Lambda.
 - 🧠 Expanding sentiment analysis with more advanced NLP models.
+- 🐍 Implementing the derived SQL insights using Pandas.
+- 🔎 Help bad performing restaurants/businesses by analyzing their reviews and giving them tailored   insights using GenAI.
+- 🧠 Creating NLP Project: Knowledge graph based solution for answering domain specific user questions.
+- 🤖 Automating data ingestion using AWS Lambda.
 
 ## ✅ Conclusion
 This project demonstrates a complete data pipeline from acquiring raw JSON data to performing insightful analysis using cloud technologies. It highlights the power of AWS and Snowflake in handling large datasets efficiently.
