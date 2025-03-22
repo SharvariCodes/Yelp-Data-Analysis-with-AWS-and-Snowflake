@@ -7,6 +7,9 @@ This project analyzes Yelp data using AWS S3, Snowflake, and Python. It involves
 ## 📝 Overview
 This project analyzes Yelp business and review data using AWS S3, Snowflake, and sentiment analysis techniques. The dataset consists of large JSON files containing Yelp reviews and business information. We preprocess, store, and analyze the data to extract insights using SQL queries.
 
+![fprojectflow](https://github.com/user-attachments/assets/01c83592-7efc-41f2-a1e7-cb9d4ca0150b)
+
+
 ## 🔍 Steps Involved
 
 ### 1️⃣ Data Acquisition
